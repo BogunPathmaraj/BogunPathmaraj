@@ -12,4 +12,4 @@
 ⚡ Fun fact: I been trying to improve my skill in basketball.
 
 
-<img src:"https://github-readme-stats.vercel.app/api?username=BogunPathmaraj">
+<img src="https://github-readme-stats.vercel.app/api?username=BogunPathmaraj">
