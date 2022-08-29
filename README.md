@@ -1,12 +1,12 @@
  Hi There, I'm Bogun Pathmaraj :)
 
 
--😄 Pronouns: He/His
+😄 Pronouns: He/His
 
--🔭 I’m currently building a Scheduling Application with Java.
+🔭 I’m currently building a Scheduling Application with Java.
 
--🌱 I’m currently learning more about Programming!
+🌱 I’m currently learning more about Programming!
 
--📫 How to reach me: Email, check down below.
+📫 How to reach me: Email, check down below.
 
--⚡ Fun fact: I been trying to improve my skill in basketball.
+⚡ Fun fact: I been trying to improve my skill in basketball.
