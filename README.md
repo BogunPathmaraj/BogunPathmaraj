@@ -6,8 +6,6 @@
 🎯 Currently pursuing Microsoft AZ-900 & SC-200 certifications  
 💻 Building hands-on Azure Security Labs and automation scripts
 
-📫 How to reach me:  
-
 ⚡ Fun fact: I’m passionate about improving my basketball skills and staying active.
 
 ---
