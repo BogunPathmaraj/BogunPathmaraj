@@ -18,9 +18,6 @@
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
   </a>
-  <a href="https://docs.microsoft.com/en-us/azure/sentinel/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Microsoft_Azure_Logo.svg" alt="azure sentinel" width="40" height="40"/>
-  </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
