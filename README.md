@@ -1,20 +1,60 @@
 <h1 align="center">Hi 👋, I'm Bogun Pathmaraj</h1>
 
-
 😄 Pronouns: He/His
 
-🔭 I’m currently building a Scheduling Application with Java.
+🔐 Aspiring Cloud Security Engineer | Security+ Certified  
+🎯 Currently pursuing Microsoft AZ-900 & SC-200 certifications  
+💻 Building hands-on Azure Security Labs and automation scripts
 
-🌱 I’m currently learning more about Programming!
+📫 How to reach me:  
 
-📫 How to reach me: Email, check down below.
+⚡ Fun fact: I’m passionate about improving my basketball skills and staying active.
 
-⚡ Fun fact: I been trying to improve my skill in basketball.
+---
 
+### 🛠️ Skills & Tools
 
+<p align="left"> 
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/azure/sentinel/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Microsoft_Azure_Logo.svg" alt="azure sentinel" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.powershell.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/security/blog/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Security_Logo.svg" alt="security" width="40" height="40"/>
+  </a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
+### 📚 Current Learning & Projects
 
-<img src="https://github-readme-stats.vercel.app/api?username=BogunPathmaraj">
+- Microsoft Azure Fundamentals (AZ-900) — *Completed/In Progress*  
+- Microsoft Security Operations Analyst (SC-200) — *In Progress*  
+- Building Cloud Security Labs:
+  - IAM Misconfiguration & RBAC Hardening  
+  - Azure Sentinel Alerting & Detection  
+  - Secure Blob Storage Configuration  
+  - Log Analytics & Automated Alerts  
+
+- Developing scripts in **Python** & **PowerShell** for cloud automation
+
+---
+
+### 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=BogunPathmaraj&show_icons=true&theme=radical" alt="Bogun's GitHub Stats" />
+
+---
+
+Thank you for visiting my profile! Feel free to connect or reach out.
